@@ -1,1 +1,1 @@
-casbin>=1.16.8
+graphql-core

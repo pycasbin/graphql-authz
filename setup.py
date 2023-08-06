@@ -15,8 +15,8 @@ install_requires = [x.strip() for x in all_reqs if "git+" not in x]
 
 setup(
     name="casbin-graphql-authz",
-    author="BustDot",
-    author_email="Bust.dev@outlook.com",
+    author="Ezequiel Grondona",
+    author_email="ezequiel.grondona@gmail.com",
     description="graphql-authz is an casbin authorization middleware for GraphQL",
     long_description=long_description,
     long_description_content_type="text/markdown",
