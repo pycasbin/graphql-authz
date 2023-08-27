@@ -26,7 +26,7 @@ Get Started
 --------
 
 Limit the access to each GraphQL resource with a policy. For example,
-given this policy for an [RBAC](https://casbin.org/docs/en/rbac) model:
+given this policy for an [RBAC](https://casbin.org/docs/rbac/) model:
 
 ```csv
 p, authorized_user, hello, query
